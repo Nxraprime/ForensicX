@@ -1,0 +1,3718 @@
+{
+    "collected_at": "2025-05-23 22:47:17.383608",
+    "system_info": {
+        "hostname": "AMAL",
+        "platform": "Windows",
+        "platform-release": "11",
+        "platform-version": "10.0.26100",
+        "architecture": "AMD64",
+        "processor": "Intel64 Family 6 Model 140 Stepping 2, GenuineIntel",
+        "ip-address": "172.20.10.7",
+        "boot-time": "2025-05-23 22:05:13.474592"
+    },
+    "running_processes": [
+        {
+            "username": "NT AUTHORITY\\SYSTEM",
+            "name": "System Idle Process",
+            "pid": 0
+        },
+        {
+            "username": "NT AUTHORITY\\SYSTEM",
+            "name": "System",
+            "pid": 4
+        },
+        {
+            "username": null,
+            "name": "",
+            "pid": 140
+        },
+        {
+            "username": null,
+            "name": "Registry",
+            "pid": 184
+        },
+        {
+            "username": null,
+            "name": "smss.exe",
+            "pid": 736
+        },
+        {
+            "username": null,
+            "name": "csrss.exe",
+            "pid": 872
+        },
+        {
+            "username": null,
+            "name": "wininit.exe",
+            "pid": 1028
+        },
+        {
+            "username": null,
+            "name": "csrss.exe",
+            "pid": 1036
+        },
+        {
+            "username": null,
+            "name": "winlogon.exe",
+            "pid": 1128
+        },
+        {
+            "username": null,
+            "name": "services.exe",
+            "pid": 1172
+        },
+        {
+            "username": null,
+            "name": "LsaIso.exe",
+            "pid": 1180
+        },
+        {
+            "username": null,
+            "name": "lsass.exe",
+            "pid": 1200
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "esrv.exe",
+            "pid": 1212
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 1332
+        },
+        {
+            "username": null,
+            "name": "fontdrvhost.exe",
+            "pid": 1368
+        },
+        {
+            "username": null,
+            "name": "fontdrvhost.exe",
+            "pid": 1376
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "svchost.exe",
+            "pid": 1388
+        },
+        {
+            "username": null,
+            "name": "WUDFHost.exe",
+            "pid": 1456
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 1504
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 1520
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 1556
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "explorer.exe",
+            "pid": 1564
+        },
+        {
+            "username": null,
+            "name": "WUDFHost.exe",
+            "pid": 1608
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "ArcControl.exe",
+            "pid": 1664
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 1700
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 1744
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 1752
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 1784
+        },
+        {
+            "username": null,
+            "name": "dwm.exe",
+            "pid": 1792
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 1828
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "Code.exe",
+            "pid": 1884
+        },
+        {
+            "username": null,
+            "name": "IntelCpHDCPSvc.exe",
+            "pid": 1916
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "ShellHost.exe",
+            "pid": 1932
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 1956
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 1968
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 1984
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 1992
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 2012
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 2088
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 2100
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 2208
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 2232
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 2336
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 2432
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "msedgewebview2.exe",
+            "pid": 2456
+        },
+        {
+            "username": null,
+            "name": "httpd.exe",
+            "pid": 2560
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 2600
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 2672
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 2688
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "OpenConsole.exe",
+            "pid": 2696
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 2820
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 2904
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 2928
+        },
+        {
+            "username": null,
+            "name": "MemCompression",
+            "pid": 3168
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 3220
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "svchost.exe",
+            "pid": 3260
+        },
+        {
+            "username": null,
+            "name": "igfxCUIServiceN.exe",
+            "pid": 3264
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 3336
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 3344
+        },
+        {
+            "username": null,
+            "name": "AppHelperCap.exe",
+            "pid": 3352
+        },
+        {
+            "username": null,
+            "name": "TouchpointAnalyticsClientService.exe",
+            "pid": 3360
+        },
+        {
+            "username": null,
+            "name": "DiagsCap.exe",
+            "pid": 3368
+        },
+        {
+            "username": null,
+            "name": "NetworkCap.exe",
+            "pid": 3376
+        },
+        {
+            "username": null,
+            "name": "SysInfoCap.exe",
+            "pid": 3392
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 3628
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "WindowsTerminal.exe",
+            "pid": 3640
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 3680
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 3840
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 3908
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 4012
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 4040
+        },
+        {
+            "username": null,
+            "name": "httpd.exe",
+            "pid": 4064
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "taskhostw.exe",
+            "pid": 4172
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 4180
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 4232
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 4364
+        },
+        {
+            "username": null,
+            "name": "NgcIso.exe",
+            "pid": 4412
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 4420
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 4492
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "msedge.exe",
+            "pid": 4504
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 4516
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 4524
+        },
+        {
+            "username": null,
+            "name": "dasHost.exe",
+            "pid": 4552
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 4564
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 4604
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "WhatsApp.exe",
+            "pid": 4672
+        },
+        {
+            "username": null,
+            "name": "spoolsv.exe",
+            "pid": 4728
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 4736
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "msedgewebview2.exe",
+            "pid": 4748
+        },
+        {
+            "username": null,
+            "name": "esif_uf.exe",
+            "pid": 4784
+        },
+        {
+            "username": null,
+            "name": "DSAService.exe",
+            "pid": 4872
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 4892
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 4952
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "conhost.exe",
+            "pid": 4960
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 5028
+        },
+        {
+            "username": null,
+            "name": "FileZillaServer.exe",
+            "pid": 5032
+        },
+        {
+            "username": null,
+            "name": "DSAUpdateService.exe",
+            "pid": 5052
+        },
+        {
+            "username": null,
+            "name": "nssm.exe",
+            "pid": 5064
+        },
+        {
+            "username": null,
+            "name": "ETDService.exe",
+            "pid": 5088
+        },
+        {
+            "username": null,
+            "name": "HPCommRecovery.exe",
+            "pid": 5156
+        },
+        {
+            "username": null,
+            "name": "HPPrintScanDoctorService.exe",
+            "pid": 5180
+        },
+        {
+            "username": null,
+            "name": "OfficeClickToRun.exe",
+            "pid": 5200
+        },
+        {
+            "username": null,
+            "name": "ArcControlService.exe",
+            "pid": 5236
+        },
+        {
+            "username": null,
+            "name": "IntelAudioService.exe",
+            "pid": 5244
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 5252
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "msedge.exe",
+            "pid": 5368
+        },
+        {
+            "username": null,
+            "name": "PEFService.exe",
+            "pid": 5420
+        },
+        {
+            "username": null,
+            "name": "OneApp.IGCC.WinService.exe",
+            "pid": 5484
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 5492
+        },
+        {
+            "username": null,
+            "name": "expressvpnd.exe",
+            "pid": 5528
+        },
+        {
+            "username": null,
+            "name": "SECOMN64.exe",
+            "pid": 5540
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 5568
+        },
+        {
+            "username": null,
+            "name": "SurSvc.exe",
+            "pid": 5572
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 5580
+        },
+        {
+            "username": null,
+            "name": "jhi_service.exe",
+            "pid": 5592
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 5600
+        },
+        {
+            "username": null,
+            "name": "turbo_vpn-service.exe",
+            "pid": 5628
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 5636
+        },
+        {
+            "username": null,
+            "name": "conhost.exe",
+            "pid": 5684
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "ArcControlAssist.exe",
+            "pid": 5688
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "Code.exe",
+            "pid": 5736
+        },
+        {
+            "username": null,
+            "name": "vmnetdhcp.exe",
+            "pid": 5748
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 5764
+        },
+        {
+            "username": null,
+            "name": "MpDefenderCoreService.exe",
+            "pid": 5772
+        },
+        {
+            "username": null,
+            "name": "vmnat.exe",
+            "pid": 5792
+        },
+        {
+            "username": null,
+            "name": "RtkAudUService64.exe",
+            "pid": 5800
+        },
+        {
+            "username": null,
+            "name": "mfemms.exe",
+            "pid": 5828
+        },
+        {
+            "username": null,
+            "name": "RstMwService.exe",
+            "pid": 5840
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 5872
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 5880
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 5888
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 5984
+        },
+        {
+            "username": null,
+            "name": "wslservice.exe",
+            "pid": 6012
+        },
+        {
+            "username": null,
+            "name": "MsMpEng.exe",
+            "pid": 6048
+        },
+        {
+            "username": null,
+            "name": "WMIRegistrationService.exe",
+            "pid": 6124
+        },
+        {
+            "username": null,
+            "name": "mongod.exe",
+            "pid": 6176
+        },
+        {
+            "username": null,
+            "name": "vmware-authd.exe",
+            "pid": 6260
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "Copilot.exe",
+            "pid": 6328
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "CodeSetup-stable-848b80aeb52026648a8ff9f7c45a9b0a80641e2e.tmp",
+            "pid": 6376
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 6416
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 6500
+        },
+        {
+            "username": null,
+            "name": "vmware-usbarbitrator64.exe",
+            "pid": 6516
+        },
+        {
+            "username": null,
+            "name": "WmiPrvSE.exe",
+            "pid": 6620
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "MfeBrowserHost.exe",
+            "pid": 6796
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 6940
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 7116
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 7372
+        },
+        {
+            "username": null,
+            "name": "MMSSHOST.exe",
+            "pid": 7568
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "Code.exe",
+            "pid": 7596
+        },
+        {
+            "username": null,
+            "name": "mfevtps.exe",
+            "pid": 7776
+        },
+        {
+            "username": null,
+            "name": "gamingservicesnet.exe",
+            "pid": 7812
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "chrome.exe",
+            "pid": 7824
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "Code.exe",
+            "pid": 7836
+        },
+        {
+            "username": null,
+            "name": "ProtectedModuleHost.exe",
+            "pid": 7852
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "msedge.exe",
+            "pid": 7868
+        },
+        {
+            "username": null,
+            "name": "gamingservices.exe",
+            "pid": 7988
+        },
+        {
+            "username": null,
+            "name": "unsecapp.exe",
+            "pid": 8040
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "Code.exe",
+            "pid": 8076
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "Notepad.exe",
+            "pid": 8276
+        },
+        {
+            "username": null,
+            "name": "WmiPrvSE.exe",
+            "pid": 8312
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "msedgewebview2.exe",
+            "pid": 8380
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "chrome.exe",
+            "pid": 8428
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "TextInputHost.exe",
+            "pid": 8576
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 8712
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "ArcControlAssist.exe",
+            "pid": 8804
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "ArcControlAssist.exe",
+            "pid": 8892
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "ArcControlAssist.exe",
+            "pid": 9064
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "ArcControlAssist.exe",
+            "pid": 9108
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "Code.exe",
+            "pid": 9820
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "svchost.exe",
+            "pid": 9844
+        },
+        {
+            "username": null,
+            "name": "McCSPServiceHost.exe",
+            "pid": 10004
+        },
+        {
+            "username": null,
+            "name": "wlanext.exe",
+            "pid": 10060
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "Code.exe",
+            "pid": 10244
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "cmd.exe",
+            "pid": 10376
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "dptf_helper.exe",
+            "pid": 10380
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "ETDCtrl.exe",
+            "pid": 10404
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "sihost.exe",
+            "pid": 10432
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "SECOCL64.exe",
+            "pid": 10472
+        },
+        {
+            "username": null,
+            "name": "esrv_svc.exe",
+            "pid": 10488
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "conhost.exe",
+            "pid": 10576
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "HPSystemEventUtilityBackground.exe",
+            "pid": 10624
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "svchost.exe",
+            "pid": 10716
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "python.exe",
+            "pid": 10744
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "svchost.exe",
+            "pid": 10748
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "svchost.exe",
+            "pid": 10828
+        },
+        {
+            "username": null,
+            "name": "AggregatorHost.exe",
+            "pid": 10892
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "igfxEMN.exe",
+            "pid": 10904
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "taskhostw.exe",
+            "pid": 10960
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 11004
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "OverlayHelper.exe",
+            "pid": 11068
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "StartMenuExperienceHost.exe",
+            "pid": 11088
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "OmenInstallMonitor.exe",
+            "pid": 11124
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "SystemOptimizer.exe",
+            "pid": 11168
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "ApplicationFrameHost.exe",
+            "pid": 11524
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "msedge.exe",
+            "pid": 11572
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 11636
+        },
+        {
+            "username": null,
+            "name": "RtkAudUService64.exe",
+            "pid": 11900
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "svchost.exe",
+            "pid": 12036
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 12112
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "WidgetService.exe",
+            "pid": 12164
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "msedgewebview2.exe",
+            "pid": 12248
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "SearchHost.exe",
+            "pid": 12296
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "SystemSettings.exe",
+            "pid": 12496
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "Widgets.exe",
+            "pid": 12508
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "RuntimeBroker.exe",
+            "pid": 12600
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "RuntimeBroker.exe",
+            "pid": 12656
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "conhost.exe",
+            "pid": 12800
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "HPSystemEventUtilityHost.exe",
+            "pid": 12820
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "svchost.exe",
+            "pid": 12824
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 12896
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "msedgewebview2.exe",
+            "pid": 13280
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 13296
+        },
+        {
+            "username": null,
+            "name": "mcshield.exe",
+            "pid": 13388
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "msedgewebview2.exe",
+            "pid": 13464
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "jusched.exe",
+            "pid": 13496
+        },
+        {
+            "username": null,
+            "name": "mcapexe.exe",
+            "pid": 13532
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "Code.exe",
+            "pid": 13648
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "IGCC.exe",
+            "pid": 13792
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "msedgewebview2.exe",
+            "pid": 14020
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "msedgewebview2.exe",
+            "pid": 14196
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "msedgewebview2.exe",
+            "pid": 14584
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "msedgewebview2.exe",
+            "pid": 14600
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "ctfmon.exe",
+            "pid": 14684
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "Code.exe",
+            "pid": 14700
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "Code.exe",
+            "pid": 14704
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "OmenCommandCenterBackground.exe",
+            "pid": 14800
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "msedgewebview2.exe",
+            "pid": 14900
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "msedgewebview2.exe",
+            "pid": 15332
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 15376
+        },
+        {
+            "username": null,
+            "name": "WmiApSrv.exe",
+            "pid": 15388
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "ArcControlAssist.exe",
+            "pid": 15584
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "SecurityHealthSystray.exe",
+            "pid": 15612
+        },
+        {
+            "username": null,
+            "name": "IntelSoftwareAssetManagerService.exe",
+            "pid": 15656
+        },
+        {
+            "username": null,
+            "name": "SecurityHealthService.exe",
+            "pid": 15672
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "RuntimeBroker.exe",
+            "pid": 15796
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "chrome.exe",
+            "pid": 15856
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "msedge.exe",
+            "pid": 15952
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "DSATray.exe",
+            "pid": 16044
+        },
+        {
+            "username": null,
+            "name": "SearchIndexer.exe",
+            "pid": 16076
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 16160
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 16188
+        },
+        {
+            "username": null,
+            "name": "NisSrv.exe",
+            "pid": 16208
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "McUICnt.exe",
+            "pid": 16444
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "uihost.exe",
+            "pid": 16480
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "HPAudioSwitch.exe",
+            "pid": 16528
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 16700
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "cmd.exe",
+            "pid": 16724
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "msedge.exe",
+            "pid": 16868
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "msedge.exe",
+            "pid": 16892
+        },
+        {
+            "username": null,
+            "name": "conhost.exe",
+            "pid": 16900
+        },
+        {
+            "username": null,
+            "name": "audiodg.exe",
+            "pid": 17056
+        },
+        {
+            "username": null,
+            "name": "svchost.exe",
+            "pid": 17180
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "unsecapp.exe",
+            "pid": 17292
+        },
+        {
+            "username": null,
+            "name": "MfeAVSvc.exe",
+            "pid": 17296
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "HPMediaNetwork.exe",
+            "pid": 17404
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "BridgeCommunication.exe",
+            "pid": 17860
+        },
+        {
+            "username": null,
+            "name": "BlueStacksHelper.exe",
+            "pid": 18296
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "BridgeCommunication.exe",
+            "pid": 18308
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "chrome.exe",
+            "pid": 18384
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "chrome.exe",
+            "pid": 18728
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "chrome.exe",
+            "pid": 18836
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "mcafee-security.exe",
+            "pid": 18936
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "CodeSetup-stable-848b80aeb52026648a8ff9f7c45a9b0a80641e2e.exe",
+            "pid": 19000
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "browserhost.exe",
+            "pid": 19016
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "chrome.exe",
+            "pid": 19252
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "Code.exe",
+            "pid": 19272
+        },
+        {
+            "username": null,
+            "name": "dasHost.exe",
+            "pid": 19384
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "chrome.exe",
+            "pid": 19548
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "cmd.exe",
+            "pid": 19908
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "chrome.exe",
+            "pid": 20340
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "chrome.exe",
+            "pid": 20348
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "PhoneExperienceHost.exe",
+            "pid": 20376
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "Code.exe",
+            "pid": 20668
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "RuntimeBroker.exe",
+            "pid": 20844
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "conhost.exe",
+            "pid": 20864
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "powershell.exe",
+            "pid": 20956
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "mcafee-security-ft.exe",
+            "pid": 20960
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "chrome.exe",
+            "pid": 20976
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "RuntimeBroker.exe",
+            "pid": 21280
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "chrome.exe",
+            "pid": 21412
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "chrome.exe",
+            "pid": 21952
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "chrome.exe",
+            "pid": 22188
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "chrome.exe",
+            "pid": 22828
+        },
+        {
+            "username": null,
+            "name": "servicehost.exe",
+            "pid": 22868
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "conhost.exe",
+            "pid": 23012
+        },
+        {
+            "username": "AMAL\\Amal",
+            "name": "Code.exe",
+            "pid": 23076
+        }
+    ],
+    "open_ports": [
+        {
+            "local_address": "addr(ip='127.0.0.1', port=51680)",
+            "remote_address": "addr(ip='127.0.0.1', port=49350)",
+            "status": "TIME_WAIT",
+            "pid": 0
+        },
+        {
+            "local_address": "addr(ip='127.0.0.1', port=51684)",
+            "remote_address": "addr(ip='127.0.0.1', port=49350)",
+            "status": "TIME_WAIT",
+            "pid": 0
+        },
+        {
+            "local_address": "addr(ip='172.20.10.7', port=138)",
+            "remote_address": "",
+            "status": "NONE",
+            "pid": 4
+        },
+        {
+            "local_address": "addr(ip='::', port=49670)",
+            "remote_address": "",
+            "status": "LISTEN",
+            "pid": 1172
+        },
+        {
+            "local_address": "addr(ip='::', port=49668)",
+            "remote_address": "",
+            "status": "LISTEN",
+            "pid": 4728
+        },
+        {
+            "local_address": "addr(ip='0.0.0.0', port=912)",
+            "remote_address": "",
+            "status": "LISTEN",
+            "pid": 6260
+        },
+        {
+            "local_address": "addr(ip='172.20.10.7', port=49408)",
+            "remote_address": "addr(ip='4.213.25.242', port=443)",
+            "status": "ESTABLISHED",
+            "pid": 5872
+        },
+        {
+            "local_address": "addr(ip='127.0.0.1', port=51675)",
+            "remote_address": "addr(ip='127.0.0.1', port=49350)",
+            "status": "TIME_WAIT",
+            "pid": 0
+        },
+        {
+            "local_address": "addr(ip='127.0.0.1', port=49351)",
+            "remote_address": "",
+            "status": "LISTEN",
+            "pid": 1212
+        },
+        {
+            "local_address": "addr(ip='172.20.10.7', port=51653)",
+            "remote_address": "addr(ip='34.107.205.1', port=443)",
+            "status": "TIME_WAIT",
+            "pid": 0
+        },
+        {
+            "local_address": "addr(ip='::', port=445)",
+            "remote_address": "",
+            "status": "LISTEN",
+            "pid": 4
+        },
+        {
+            "local_address": "addr(ip='127.0.0.1', port=51676)",
+            "remote_address": "addr(ip='127.0.0.1', port=49350)",
+            "status": "TIME_WAIT",
+            "pid": 0
+        },
+        {
+            "local_address": "addr(ip='::', port=21)",
+            "remote_address": "",
+            "status": "LISTEN",
+            "pid": 5032
+        },
+        {
+            "local_address": "addr(ip='2401:4900:91cc:e675:64f9:7e38:2366:b356', port=51563)",
+            "remote_address": "addr(ip='2a03:2880:f368:120:face:b00c:0:167', port=443)",
+            "status": "CLOSE_WAIT",
+            "pid": 4672
+        },
+        {
+            "local_address": "addr(ip='0.0.0.0', port=53281)",
+            "remote_address": "",
+            "status": "NONE",
+            "pid": 14600
+        },
+        {
+            "local_address": "addr(ip='0.0.0.0', port=49667)",
+            "remote_address": "",
+            "status": "LISTEN",
+            "pid": 2928
+        },
+        {
+            "local_address": "addr(ip='192.168.111.1', port=138)",
+            "remote_address": "",
+            "status": "NONE",
+            "pid": 4
+        },
+        {
+            "local_address": "addr(ip='2401:4900:91cc:e675:64f9:7e38:2366:b356', port=51637)",
+            "remote_address": "addr(ip='2606:4700:83b2:7cbc:c276:427:5ff2:75c4', port=443)",
+            "status": "TIME_WAIT",
+            "pid": 0
+        },
+        {
+            "local_address": "addr(ip='127.0.0.1', port=51646)",
+            "remote_address": "addr(ip='127.0.0.1', port=49350)",
+            "status": "TIME_WAIT",
+            "pid": 0
+        },
+        {
+            "local_address": "addr(ip='127.0.0.1', port=51643)",
+            "remote_address": "addr(ip='127.0.0.1', port=49350)",
+            "status": "TIME_WAIT",
+            "pid": 0
+        },
+        {
+            "local_address": "addr(ip='192.168.111.1', port=58513)",
+            "remote_address": "",
+            "status": "NONE",
+            "pid": 6940
+        },
+        {
+            "local_address": "addr(ip='0.0.0.0', port=135)",
+            "remote_address": "",
+            "status": "LISTEN",
+            "pid": 1504
+        },
+        {
+            "local_address": "addr(ip='172.20.10.7', port=1900)",
+            "remote_address": "",
+            "status": "NONE",
+            "pid": 6940
+        },
+        {
+            "local_address": "addr(ip='::', port=5353)",
+            "remote_address": "",
+            "status": "NONE",
+            "pid": 1968
+        },
+        {
+            "local_address": "addr(ip='127.0.0.1', port=51654)",
+            "remote_address": "addr(ip='127.0.0.1', port=49350)",
+            "status": "TIME_WAIT",
+            "pid": 0
+        },
+        {
+            "local_address": "addr(ip='127.0.0.1', port=51671)",
+            "remote_address": "addr(ip='127.0.0.1', port=49350)",
+            "status": "TIME_WAIT",
+            "pid": 0
+        },
+        {
+            "local_address": "addr(ip='fe80::45b9:1e76:5ed7:9f12', port=1900)",
+            "remote_address": "",
+            "status": "NONE",
+            "pid": 6940
+        },
+        {
+            "local_address": "addr(ip='fe80::fdfc:fd9a:233e:74d', port=58509)",
+            "remote_address": "",
+            "status": "NONE",
+            "pid": 6940
+        },
+        {
+            "local_address": "addr(ip='0.0.0.0', port=5355)",
+            "remote_address": "",
+            "status": "NONE",
+            "pid": 1968
+        },
+        {
+            "local_address": "addr(ip='127.0.0.1', port=51655)",
+            "remote_address": "addr(ip='127.0.0.1', port=49350)",
+            "status": "TIME_WAIT",
+            "pid": 0
+        },
+        {
+            "local_address": "addr(ip='2401:4900:91cc:e675:64f9:7e38:2366:b356', port=51029)",
+            "remote_address": "addr(ip='2603:1046:700:48::2', port=443)",
+            "status": "ESTABLISHED",
+            "pid": 12296
+        },
+        {
+            "local_address": "addr(ip='172.20.10.7', port=137)",
+            "remote_address": "",
+            "status": "NONE",
+            "pid": 4
+        },
+        {
+            "local_address": "addr(ip='127.0.0.1', port=51678)",
+            "remote_address": "addr(ip='127.0.0.1', port=49350)",
+            "status": "TIME_WAIT",
+            "pid": 0
+        },
+        {
+            "local_address": "addr(ip='0.0.0.0', port=49670)",
+            "remote_address": "",
+            "status": "LISTEN",
+            "pid": 1172
+        },
+        {
+            "local_address": "addr(ip='127.0.0.1', port=51670)",
+            "remote_address": "addr(ip='127.0.0.1', port=49350)",
+            "status": "TIME_WAIT",
+            "pid": 0
+        },
+        {
+            "local_address": "addr(ip='127.0.0.1', port=61204)",
+            "remote_address": "",
+            "status": "NONE",
+            "pid": 5252
+        },
+        {
+            "local_address": "addr(ip='127.0.0.1', port=51686)",
+            "remote_address": "addr(ip='127.0.0.1', port=49350)",
+            "status": "FIN_WAIT2",
+            "pid": 10488
+        },
+        {
+            "local_address": "addr(ip='127.0.0.1', port=28390)",
+            "remote_address": "",
+            "status": "LISTEN",
+            "pid": 4
+        },
+        {
+            "local_address": "addr(ip='127.0.0.1', port=51674)",
+            "remote_address": "addr(ip='127.0.0.1', port=49350)",
+            "status": "TIME_WAIT",
+            "pid": 0
+        },
+        {
+            "local_address": "addr(ip='0.0.0.0', port=64804)",
+            "remote_address": "",
+            "status": "NONE",
+            "pid": 20340
+        },
+        {
+            "local_address": "addr(ip='192.168.245.1', port=137)",
+            "remote_address": "",
+            "status": "NONE",
+            "pid": 4
+        },
+        {
+            "local_address": "addr(ip='2401:4900:91cc:e675:64f9:7e38:2366:b356', port=51656)",
+            "remote_address": "addr(ip='2620:1ec:bdf::58', port=443)",
+            "status": "TIME_WAIT",
+            "pid": 0
+        },
+        {
+            "local_address": "addr(ip='fe80::d15:2a56:ea94:22a7', port=58508)",
+            "remote_address": "",
+            "status": "NONE",
+            "pid": 6940
+        },
+        {
+            "local_address": "addr(ip='127.0.0.1', port=51650)",
+            "remote_address": "addr(ip='127.0.0.1', port=49350)",
+            "status": "TIME_WAIT",
+            "pid": 0
+        },
+        {
+            "local_address": "addr(ip='0.0.0.0', port=49666)",
+            "remote_address": "",
+            "status": "LISTEN",
+            "pid": 1520
+        },
+        {
+            "local_address": "addr(ip='127.0.0.1', port=51668)",
+            "remote_address": "addr(ip='127.0.0.1', port=49350)",
+            "status": "TIME_WAIT",
+            "pid": 0
+        },
+        {
+            "local_address": "addr(ip='127.0.0.1', port=51681)",
+            "remote_address": "addr(ip='127.0.0.1', port=49350)",
+            "status": "TIME_WAIT",
+            "pid": 0
+        },
+        {
+            "local_address": "addr(ip='::', port=65022)",
+            "remote_address": "",
+            "status": "NONE",
+            "pid": 20340
+        },
+        {
+            "local_address": "addr(ip='127.0.0.1', port=51685)",
+            "remote_address": "addr(ip='127.0.0.1', port=49350)",
+            "status": "TIME_WAIT",
+            "pid": 0
+        },
+        {
+            "local_address": "addr(ip='::1', port=14147)",
+            "remote_address": "",
+            "status": "LISTEN",
+            "pid": 5032
+        },
+        {
+            "local_address": "addr(ip='127.0.0.1', port=51640)",
+            "remote_address": "addr(ip='127.0.0.1', port=49350)",
+            "status": "TIME_WAIT",
+            "pid": 0
+        },
+        {
+            "local_address": "addr(ip='127.0.0.1', port=51657)",
+            "remote_address": "addr(ip='127.0.0.1', port=49350)",
+            "status": "TIME_WAIT",
+            "pid": 0
+        },
+        {
+            "local_address": "addr(ip='2401:4900:91cc:e675:64f9:7e38:2366:b356', port=51683)",
+            "remote_address": "addr(ip='2606:4700:83b2:7cbc:c2a5:427:5ff2:75c4', port=443)",
+            "status": "TIME_WAIT",
+            "pid": 0
+        },
+        {
+            "local_address": "addr(ip='2401:4900:91cc:e675:64f9:7e38:2366:b356', port=51647)",
+            "remote_address": "addr(ip='2606:4700:83b2:7cbc:c276:427:5ff2:75c4', port=443)",
+            "status": "TIME_WAIT",
+            "pid": 0
+        },
+        {
+            "local_address": "addr(ip='172.20.10.7', port=139)",
+            "remote_address": "",
+            "status": "LISTEN",
+            "pid": 4
+        },
+        {
+            "local_address": "addr(ip='127.0.0.1', port=51679)",
+            "remote_address": "addr(ip='127.0.0.1', port=49350)",
+            "status": "TIME_WAIT",
+            "pid": 0
+        },
+        {
+            "local_address": "addr(ip='127.0.0.1', port=1900)",
+            "remote_address": "",
+            "status": "NONE",
+            "pid": 6940
+        },
+        {
+            "local_address": "addr(ip='::', port=5353)",
+            "remote_address": "",
+            "status": "NONE",
+            "pid": 21952
+        },
+        {
+            "local_address": "addr(ip='2401:4900:91cc:e675:64f9:7e38:2366:b356', port=51568)",
+            "remote_address": "addr(ip='2404:a800:6:106:face:b00c:3333:7020', port=443)",
+            "status": "CLOSE_WAIT",
+            "pid": 4672
+        },
+        {
+            "local_address": "addr(ip='0.0.0.0', port=443)",
+            "remote_address": "",
+            "status": "LISTEN",
+            "pid": 4064
+        },
+        {
+            "local_address": "addr(ip='127.0.0.1', port=51638)",
+            "remote_address": "addr(ip='127.0.0.1', port=49350)",
+            "status": "TIME_WAIT",
+            "pid": 0
+        },
+        {
+            "local_address": "addr(ip='2401:4900:91cc:e675:64f9:7e38:2366:b356', port=51652)",
+            "remote_address": "addr(ip='2606:4700:83b2:7cbc:c2a5:427:5ff2:75c4', port=443)",
+            "status": "TIME_WAIT",
+            "pid": 0
+        },
+        {
+            "local_address": "addr(ip='0.0.0.0', port=5353)",
+            "remote_address": "",
+            "status": "NONE",
+            "pid": 1968
+        },
+        {
+            "local_address": "addr(ip='192.168.245.1', port=1900)",
+            "remote_address": "",
+            "status": "NONE",
+            "pid": 6940
+        },
+        {
+            "local_address": "addr(ip='::', port=49667)",
+            "remote_address": "",
+            "status": "LISTEN",
+            "pid": 2928
+        },
+        {
+            "local_address": "addr(ip='127.0.0.1', port=51649)",
+            "remote_address": "addr(ip='127.0.0.1', port=49350)",
+            "status": "TIME_WAIT",
+            "pid": 0
+        },
+        {
+            "local_address": "addr(ip='127.0.0.1', port=51666)",
+            "remote_address": "addr(ip='127.0.0.1', port=49350)",
+            "status": "TIME_WAIT",
+            "pid": 0
+        },
+        {
+            "local_address": "addr(ip='2401:4900:91cc:e675:64f9:7e38:2366:b356', port=50494)",
+            "remote_address": "addr(ip='2404:6800:4003:c11::bc', port=5228)",
+            "status": "ESTABLISHED",
+            "pid": 20340
+        },
+        {
+            "local_address": "addr(ip='127.0.0.1', port=51682)",
+            "remote_address": "addr(ip='127.0.0.1', port=49350)",
+            "status": "TIME_WAIT",
+            "pid": 0
+        },
+        {
+            "local_address": "addr(ip='::', port=80)",
+            "remote_address": "",
+            "status": "LISTEN",
+            "pid": 4064
+        },
+        {
+            "local_address": "addr(ip='0.0.0.0', port=5050)",
+            "remote_address": "",
+            "status": "NONE",
+            "pid": 1956
+        },
+        {
+            "local_address": "addr(ip='192.168.111.1', port=139)",
+            "remote_address": "",
+            "status": "LISTEN",
+            "pid": 4
+        },
+        {
+            "local_address": "addr(ip='::1', port=58511)",
+            "remote_address": "",
+            "status": "NONE",
+            "pid": 6940
+        },
+        {
+            "local_address": "addr(ip='::', port=49664)",
+            "remote_address": "",
+            "status": "LISTEN",
+            "pid": 1200
+        },
+        {
+            "local_address": "addr(ip='0.0.0.0', port=49665)",
+            "remote_address": "",
+            "status": "LISTEN",
+            "pid": 1028
+        },
+        {
+            "local_address": "addr(ip='192.168.111.1', port=1900)",
+            "remote_address": "",
+            "status": "NONE",
+            "pid": 6940
+        },
+        {
+            "local_address": "addr(ip='127.0.0.1', port=14147)",
+            "remote_address": "",
+            "status": "LISTEN",
+            "pid": 5032
+        },
+        {
+            "local_address": "addr(ip='127.0.0.1', port=58515)",
+            "remote_address": "",
+            "status": "NONE",
+            "pid": 6940
+        },
+        {
+            "local_address": "addr(ip='127.0.0.1', port=51648)",
+            "remote_address": "addr(ip='127.0.0.1', port=49350)",
+            "status": "TIME_WAIT",
+            "pid": 0
+        },
+        {
+            "local_address": "addr(ip='2401:4900:91cc:e675:64f9:7e38:2366:b356', port=51642)",
+            "remote_address": "addr(ip='2606:4700:83b2:7cbc:c276:427:5ff2:75c4', port=443)",
+            "status": "TIME_WAIT",
+            "pid": 0
+        },
+        {
+            "local_address": "addr(ip='0.0.0.0', port=50060)",
+            "remote_address": "",
+            "status": "NONE",
+            "pid": 14600
+        },
+        {
+            "local_address": "addr(ip='0.0.0.0', port=80)",
+            "remote_address": "",
+            "status": "LISTEN",
+            "pid": 4064
+        },
+        {
+            "local_address": "addr(ip='127.0.0.1', port=51667)",
+            "remote_address": "addr(ip='127.0.0.1', port=49350)",
+            "status": "TIME_WAIT",
+            "pid": 0
+        },
+        {
+            "local_address": "addr(ip='172.20.10.7', port=50326)",
+            "remote_address": "addr(ip='20.57.103.21', port=443)",
+            "status": "CLOSE_WAIT",
+            "pid": 18936
+        },
+        {
+            "local_address": "addr(ip='2401:4900:91cc:e675:64f9:7e38:2366:b356', port=51569)",
+            "remote_address": "addr(ip='2404:a800:6:79:face:b00c:3333:7020', port=443)",
+            "status": "CLOSE_WAIT",
+            "pid": 4672
+        },
+        {
+            "local_address": "addr(ip='::', port=443)",
+            "remote_address": "",
+            "status": "LISTEN",
+            "pid": 4064
+        },
+        {
+            "local_address": "addr(ip='0.0.0.0', port=5353)",
+            "remote_address": "",
+            "status": "NONE",
+            "pid": 21952
+        },
+        {
+            "local_address": "addr(ip='0.0.0.0', port=6646)",
+            "remote_address": "",
+            "status": "NONE",
+            "pid": 7568
+        },
+        {
+            "local_address": "addr(ip='127.0.0.1', port=27017)",
+            "remote_address": "",
+            "status": "LISTEN",
+            "pid": 6176
+        },
+        {
+            "local_address": "addr(ip='::', port=135)",
+            "remote_address": "",
+            "status": "LISTEN",
+            "pid": 1504
+        },
+        {
+            "local_address": "addr(ip='fe80::d15:2a56:ea94:22a7', port=1900)",
+            "remote_address": "",
+            "status": "NONE",
+            "pid": 6940
+        },
+        {
+            "local_address": "addr(ip='127.0.0.1', port=49350)",
+            "remote_address": "addr(ip='127.0.0.1', port=51686)",
+            "status": "CLOSE_WAIT",
+            "pid": 10488
+        },
+        {
+            "local_address": "addr(ip='0.0.0.0', port=445)",
+            "remote_address": "",
+            "status": "LISTEN",
+            "pid": 4
+        },
+        {
+            "local_address": "addr(ip='::', port=49665)",
+            "remote_address": "",
+            "status": "LISTEN",
+            "pid": 1028
+        },
+        {
+            "local_address": "addr(ip='172.20.10.7', port=51030)",
+            "remote_address": "addr(ip='23.38.59.250', port=80)",
+            "status": "ESTABLISHED",
+            "pid": 12296
+        },
+        {
+            "local_address": "addr(ip='fe80::45b9:1e76:5ed7:9f12', port=58510)",
+            "remote_address": "",
+            "status": "NONE",
+            "pid": 6940
+        },
+        {
+            "local_address": "addr(ip='::', port=53281)",
+            "remote_address": "",
+            "status": "NONE",
+            "pid": 14600
+        },
+        {
+            "local_address": "addr(ip='127.0.0.1', port=51651)",
+            "remote_address": "addr(ip='127.0.0.1', port=49350)",
+            "status": "TIME_WAIT",
+            "pid": 0
+        },
+        {
+            "local_address": "addr(ip='127.0.0.1', port=51664)",
+            "remote_address": "addr(ip='127.0.0.1', port=49350)",
+            "status": "TIME_WAIT",
+            "pid": 0
+        },
+        {
+            "local_address": "addr(ip='172.20.10.7', port=58514)",
+            "remote_address": "",
+            "status": "NONE",
+            "pid": 6940
+        },
+        {
+            "local_address": "addr(ip='2401:4900:91cc:e675:64f9:7e38:2366:b356', port=51566)",
+            "remote_address": "addr(ip='2404:a800:6:1b:face:b00c:3333:7020', port=443)",
+            "status": "CLOSE_WAIT",
+            "pid": 4672
+        },
+        {
+            "local_address": "addr(ip='::', port=49666)",
+            "remote_address": "",
+            "status": "LISTEN",
+            "pid": 1520
+        },
+        {
+            "local_address": "addr(ip='127.0.0.1', port=28385)",
+            "remote_address": "",
+            "status": "LISTEN",
+            "pid": 4
+        },
+        {
+            "local_address": "addr(ip='192.168.111.1', port=137)",
+            "remote_address": "",
+            "status": "NONE",
+            "pid": 4
+        },
+        {
+            "local_address": "addr(ip='192.168.245.1', port=138)",
+            "remote_address": "",
+            "status": "NONE",
+            "pid": 4
+        },
+        {
+            "local_address": "addr(ip='127.0.0.1', port=51669)",
+            "remote_address": "addr(ip='127.0.0.1', port=49350)",
+            "status": "TIME_WAIT",
+            "pid": 0
+        },
+        {
+            "local_address": "addr(ip='127.0.0.1', port=51639)",
+            "remote_address": "addr(ip='127.0.0.1', port=49350)",
+            "status": "TIME_WAIT",
+            "pid": 0
+        },
+        {
+            "local_address": "addr(ip='::', port=64804)",
+            "remote_address": "",
+            "status": "NONE",
+            "pid": 20340
+        },
+        {
+            "local_address": "addr(ip='0.0.0.0', port=6646)",
+            "remote_address": "",
+            "status": "LISTEN",
+            "pid": 7568
+        },
+        {
+            "local_address": "addr(ip='127.0.0.1', port=51677)",
+            "remote_address": "addr(ip='127.0.0.1', port=49350)",
+            "status": "TIME_WAIT",
+            "pid": 0
+        },
+        {
+            "local_address": "addr(ip='192.168.245.1', port=58512)",
+            "remote_address": "",
+            "status": "NONE",
+            "pid": 6940
+        },
+        {
+            "local_address": "addr(ip='127.0.0.1', port=2015)",
+            "remote_address": "",
+            "status": "LISTEN",
+            "pid": 5528
+        },
+        {
+            "local_address": "addr(ip='::1', port=1900)",
+            "remote_address": "",
+            "status": "NONE",
+            "pid": 6940
+        },
+        {
+            "local_address": "addr(ip='127.0.0.1', port=51658)",
+            "remote_address": "addr(ip='127.0.0.1', port=49350)",
+            "status": "TIME_WAIT",
+            "pid": 0
+        },
+        {
+            "local_address": "addr(ip='127.0.0.1', port=51672)",
+            "remote_address": "addr(ip='127.0.0.1', port=49350)",
+            "status": "TIME_WAIT",
+            "pid": 0
+        },
+        {
+            "local_address": "addr(ip='::1', port=49669)",
+            "remote_address": "",
+            "status": "LISTEN",
+            "pid": 5592
+        },
+        {
+            "local_address": "addr(ip='127.0.0.1', port=51260)",
+            "remote_address": "",
+            "status": "LISTEN",
+            "pid": 8076
+        },
+        {
+            "local_address": "addr(ip='0.0.0.0', port=49668)",
+            "remote_address": "",
+            "status": "LISTEN",
+            "pid": 4728
+        },
+        {
+            "local_address": "addr(ip='127.0.0.1', port=51631)",
+            "remote_address": "addr(ip='127.0.0.1', port=49350)",
+            "status": "TIME_WAIT",
+            "pid": 0
+        },
+        {
+            "local_address": "addr(ip='2401:4900:91cc:e675:64f9:7e38:2366:b356', port=51641)",
+            "remote_address": "addr(ip='2606:4700:83b2:7cbc:c276:427:5ff2:75c4', port=443)",
+            "status": "TIME_WAIT",
+            "pid": 0
+        },
+        {
+            "local_address": "addr(ip='::', port=50060)",
+            "remote_address": "",
+            "status": "NONE",
+            "pid": 14600
+        },
+        {
+            "local_address": "addr(ip='127.0.0.1', port=51644)",
+            "remote_address": "addr(ip='127.0.0.1', port=49350)",
+            "status": "TIME_WAIT",
+            "pid": 0
+        },
+        {
+            "local_address": "addr(ip='127.0.0.1', port=1001)",
+            "remote_address": "",
+            "status": "LISTEN",
+            "pid": 4
+        },
+        {
+            "local_address": "addr(ip='2401:4900:91cc:e675:64f9:7e38:2366:b356', port=51583)",
+            "remote_address": "addr(ip='2620:1ec:50::12', port=443)",
+            "status": "ESTABLISHED",
+            "pid": 20340
+        },
+        {
+            "local_address": "addr(ip='0.0.0.0', port=902)",
+            "remote_address": "",
+            "status": "LISTEN",
+            "pid": 6260
+        },
+        {
+            "local_address": "addr(ip='127.0.0.1', port=49350)",
+            "remote_address": "",
+            "status": "LISTEN",
+            "pid": 10488
+        },
+        {
+            "local_address": "addr(ip='0.0.0.0', port=49664)",
+            "remote_address": "",
+            "status": "LISTEN",
+            "pid": 1200
+        },
+        {
+            "local_address": "addr(ip='0.0.0.0', port=21)",
+            "remote_address": "",
+            "status": "LISTEN",
+            "pid": 5032
+        },
+        {
+            "local_address": "addr(ip='192.168.245.1', port=139)",
+            "remote_address": "",
+            "status": "LISTEN",
+            "pid": 4
+        },
+        {
+            "local_address": "addr(ip='::', port=5355)",
+            "remote_address": "",
+            "status": "NONE",
+            "pid": 1968
+        },
+        {
+            "local_address": "addr(ip='0.0.0.0', port=5040)",
+            "remote_address": "",
+            "status": "LISTEN",
+            "pid": 1956
+        },
+        {
+            "local_address": "addr(ip='172.20.10.7', port=51630)",
+            "remote_address": "addr(ip='34.107.205.1', port=443)",
+            "status": "TIME_WAIT",
+            "pid": 0
+        },
+        {
+            "local_address": "addr(ip='127.0.0.1', port=51673)",
+            "remote_address": "addr(ip='127.0.0.1', port=49350)",
+            "status": "TIME_WAIT",
+            "pid": 0
+        },
+        {
+            "local_address": "addr(ip='0.0.0.0', port=65022)",
+            "remote_address": "",
+            "status": "NONE",
+            "pid": 20340
+        },
+        {
+            "local_address": "addr(ip='fe80::fdfc:fd9a:233e:74d', port=1900)",
+            "remote_address": "",
+            "status": "NONE",
+            "pid": 6940
+        },
+        {
+            "local_address": "addr(ip='127.0.0.1', port=51632)",
+            "remote_address": "addr(ip='127.0.0.1', port=49350)",
+            "status": "TIME_WAIT",
+            "pid": 0
+        },
+        {
+            "local_address": "addr(ip='2401:4900:91cc:e675:64f9:7e38:2366:b356', port=51645)",
+            "remote_address": "addr(ip='2606:4700:83b2:7cbc:c276:427:5ff2:75c4', port=443)",
+            "status": "TIME_WAIT",
+            "pid": 0
+        }
+    ],
+    "file_hashes": {
+        "C:\\WINDOWS/System32/drivers/etc/hosts": {
+            "MD5": "3688374325b992def12793500307566d",
+            "SHA1": "4bed0823746a2a8577ab08ac8711b79770e48274",
+            "SHA256": "2d6bdfb341be3a6234b24742377f93aa7c7cfb0d9fd64efa9282c87852e57085"
+        },
+        "C:\\WINDOWS/System32/cmd.exe": {
+            "MD5": "e86a8609fea011c240950f5369d12714",
+            "SHA1": "7b2fd51a940ab72605853e43b6857f3b93ee86b0",
+            "SHA256": "83c991bf32bbc3546eb62f45f9b3fd35abbf5bbb7e57ef8ea298822bfd4788ab"
+        }
+    },
+    "usb_device_history": [],
+    "browser_history": [
+        "Found Chrome History file at: C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\History"
+    ],
+    "ram_snapshot": [
+        {
+            "pid": 0,
+            "name": "System Idle Process",
+            "memory_MB": 0.01
+        },
+        {
+            "pid": 4,
+            "name": "System",
+            "memory_MB": 3.54
+        },
+        {
+            "pid": 140,
+            "name": "",
+            "memory_MB": 38.46
+        },
+        {
+            "pid": 184,
+            "name": "Registry",
+            "memory_MB": 25.43
+        },
+        {
+            "pid": 736,
+            "name": "smss.exe",
+            "memory_MB": 0.0
+        },
+        {
+            "pid": 872,
+            "name": "csrss.exe",
+            "memory_MB": 1.31
+        },
+        {
+            "pid": 1028,
+            "name": "wininit.exe",
+            "memory_MB": 0.02
+        },
+        {
+            "pid": 1036,
+            "name": "csrss.exe",
+            "memory_MB": 2.11
+        },
+        {
+            "pid": 1128,
+            "name": "winlogon.exe",
+            "memory_MB": 1.23
+        },
+        {
+            "pid": 1172,
+            "name": "services.exe",
+            "memory_MB": 6.72
+        },
+        {
+            "pid": 1180,
+            "name": "LsaIso.exe",
+            "memory_MB": 0.02
+        },
+        {
+            "pid": 1200,
+            "name": "lsass.exe",
+            "memory_MB": 14.09
+        },
+        {
+            "pid": 1212,
+            "name": "esrv.exe",
+            "memory_MB": 19.46
+        },
+        {
+            "pid": 1332,
+            "name": "svchost.exe",
+            "memory_MB": 19.33
+        },
+        {
+            "pid": 1368,
+            "name": "fontdrvhost.exe",
+            "memory_MB": 2.71
+        },
+        {
+            "pid": 1376,
+            "name": "fontdrvhost.exe",
+            "memory_MB": 0.15
+        },
+        {
+            "pid": 1388,
+            "name": "svchost.exe",
+            "memory_MB": 2.27
+        },
+        {
+            "pid": 1456,
+            "name": "WUDFHost.exe",
+            "memory_MB": 7.47
+        },
+        {
+            "pid": 1504,
+            "name": "svchost.exe",
+            "memory_MB": 12.27
+        },
+        {
+            "pid": 1520,
+            "name": "svchost.exe",
+            "memory_MB": 8.82
+        },
+        {
+            "pid": 1556,
+            "name": "svchost.exe",
+            "memory_MB": 3.37
+        },
+        {
+            "pid": 1564,
+            "name": "explorer.exe",
+            "memory_MB": 205.33
+        },
+        {
+            "pid": 1608,
+            "name": "WUDFHost.exe",
+            "memory_MB": 0.26
+        },
+        {
+            "pid": 1664,
+            "name": "ArcControl.exe",
+            "memory_MB": 9.79
+        },
+        {
+            "pid": 1700,
+            "name": "svchost.exe",
+            "memory_MB": 3.76
+        },
+        {
+            "pid": 1744,
+            "name": "svchost.exe",
+            "memory_MB": 2.66
+        },
+        {
+            "pid": 1752,
+            "name": "svchost.exe",
+            "memory_MB": 0.6
+        },
+        {
+            "pid": 1784,
+            "name": "svchost.exe",
+            "memory_MB": 3.23
+        },
+        {
+            "pid": 1792,
+            "name": "dwm.exe",
+            "memory_MB": 86.07
+        },
+        {
+            "pid": 1828,
+            "name": "svchost.exe",
+            "memory_MB": 0.94
+        },
+        {
+            "pid": 1884,
+            "name": "Code.exe",
+            "memory_MB": 33.87
+        },
+        {
+            "pid": 1916,
+            "name": "IntelCpHDCPSvc.exe",
+            "memory_MB": 0.25
+        },
+        {
+            "pid": 1932,
+            "name": "ShellHost.exe",
+            "memory_MB": 10.05
+        },
+        {
+            "pid": 1956,
+            "name": "svchost.exe",
+            "memory_MB": 3.36
+        },
+        {
+            "pid": 1968,
+            "name": "svchost.exe",
+            "memory_MB": 5.13
+        },
+        {
+            "pid": 1984,
+            "name": "svchost.exe",
+            "memory_MB": 2.07
+        },
+        {
+            "pid": 1992,
+            "name": "svchost.exe",
+            "memory_MB": 2.48
+        },
+        {
+            "pid": 2012,
+            "name": "svchost.exe",
+            "memory_MB": 1.5
+        },
+        {
+            "pid": 2088,
+            "name": "svchost.exe",
+            "memory_MB": 9.04
+        },
+        {
+            "pid": 2100,
+            "name": "svchost.exe",
+            "memory_MB": 1.79
+        },
+        {
+            "pid": 2208,
+            "name": "svchost.exe",
+            "memory_MB": 1.58
+        },
+        {
+            "pid": 2232,
+            "name": "svchost.exe",
+            "memory_MB": 1.79
+        },
+        {
+            "pid": 2336,
+            "name": "svchost.exe",
+            "memory_MB": 5.68
+        },
+        {
+            "pid": 2432,
+            "name": "svchost.exe",
+            "memory_MB": 3.86
+        },
+        {
+            "pid": 2456,
+            "name": "msedgewebview2.exe",
+            "memory_MB": 4.96
+        },
+        {
+            "pid": 2560,
+            "name": "httpd.exe",
+            "memory_MB": 0.13
+        },
+        {
+            "pid": 2600,
+            "name": "svchost.exe",
+            "memory_MB": 1.34
+        },
+        {
+            "pid": 2672,
+            "name": "svchost.exe",
+            "memory_MB": 5.88
+        },
+        {
+            "pid": 2688,
+            "name": "svchost.exe",
+            "memory_MB": 2.73
+        },
+        {
+            "pid": 2696,
+            "name": "OpenConsole.exe",
+            "memory_MB": 5.98
+        },
+        {
+            "pid": 2820,
+            "name": "svchost.exe",
+            "memory_MB": 1.0
+        },
+        {
+            "pid": 2904,
+            "name": "svchost.exe",
+            "memory_MB": 1.83
+        },
+        {
+            "pid": 2928,
+            "name": "svchost.exe",
+            "memory_MB": 9.11
+        },
+        {
+            "pid": 3168,
+            "name": "MemCompression",
+            "memory_MB": 73.05
+        },
+        {
+            "pid": 3220,
+            "name": "svchost.exe",
+            "memory_MB": 0.55
+        },
+        {
+            "pid": 3260,
+            "name": "svchost.exe",
+            "memory_MB": 2.73
+        },
+        {
+            "pid": 3264,
+            "name": "igfxCUIServiceN.exe",
+            "memory_MB": 0.49
+        },
+        {
+            "pid": 3336,
+            "name": "svchost.exe",
+            "memory_MB": 3.18
+        },
+        {
+            "pid": 3344,
+            "name": "svchost.exe",
+            "memory_MB": 1.57
+        },
+        {
+            "pid": 3352,
+            "name": "AppHelperCap.exe",
+            "memory_MB": 3.27
+        },
+        {
+            "pid": 3360,
+            "name": "TouchpointAnalyticsClientService.exe",
+            "memory_MB": 15.36
+        },
+        {
+            "pid": 3368,
+            "name": "DiagsCap.exe",
+            "memory_MB": 3.06
+        },
+        {
+            "pid": 3376,
+            "name": "NetworkCap.exe",
+            "memory_MB": 2.89
+        },
+        {
+            "pid": 3392,
+            "name": "SysInfoCap.exe",
+            "memory_MB": 8.26
+        },
+        {
+            "pid": 3628,
+            "name": "svchost.exe",
+            "memory_MB": 7.1
+        },
+        {
+            "pid": 3640,
+            "name": "WindowsTerminal.exe",
+            "memory_MB": 62.73
+        },
+        {
+            "pid": 3680,
+            "name": "svchost.exe",
+            "memory_MB": 4.43
+        },
+        {
+            "pid": 3840,
+            "name": "svchost.exe",
+            "memory_MB": 12.34
+        },
+        {
+            "pid": 3908,
+            "name": "svchost.exe",
+            "memory_MB": 1.65
+        },
+        {
+            "pid": 4012,
+            "name": "svchost.exe",
+            "memory_MB": 19.0
+        },
+        {
+            "pid": 4040,
+            "name": "svchost.exe",
+            "memory_MB": 2.33
+        },
+        {
+            "pid": 4064,
+            "name": "httpd.exe",
+            "memory_MB": 0.08
+        },
+        {
+            "pid": 4172,
+            "name": "taskhostw.exe",
+            "memory_MB": 25.22
+        },
+        {
+            "pid": 4180,
+            "name": "svchost.exe",
+            "memory_MB": 0.98
+        },
+        {
+            "pid": 4232,
+            "name": "svchost.exe",
+            "memory_MB": 3.09
+        },
+        {
+            "pid": 4364,
+            "name": "svchost.exe",
+            "memory_MB": 3.79
+        },
+        {
+            "pid": 4412,
+            "name": "NgcIso.exe",
+            "memory_MB": 0.02
+        },
+        {
+            "pid": 4420,
+            "name": "svchost.exe",
+            "memory_MB": 0.99
+        },
+        {
+            "pid": 4492,
+            "name": "svchost.exe",
+            "memory_MB": 2.79
+        },
+        {
+            "pid": 4504,
+            "name": "msedge.exe",
+            "memory_MB": 29.56
+        },
+        {
+            "pid": 4516,
+            "name": "svchost.exe",
+            "memory_MB": 7.84
+        },
+        {
+            "pid": 4524,
+            "name": "svchost.exe",
+            "memory_MB": 1.36
+        },
+        {
+            "pid": 4552,
+            "name": "dasHost.exe",
+            "memory_MB": 0.54
+        },
+        {
+            "pid": 4564,
+            "name": "svchost.exe",
+            "memory_MB": 3.07
+        },
+        {
+            "pid": 4604,
+            "name": "svchost.exe",
+            "memory_MB": 1.06
+        },
+        {
+            "pid": 4672,
+            "name": "WhatsApp.exe",
+            "memory_MB": 36.04
+        },
+        {
+            "pid": 4728,
+            "name": "spoolsv.exe",
+            "memory_MB": 1.37
+        },
+        {
+            "pid": 4736,
+            "name": "svchost.exe",
+            "memory_MB": 9.31
+        },
+        {
+            "pid": 4748,
+            "name": "msedgewebview2.exe",
+            "memory_MB": 4.71
+        },
+        {
+            "pid": 4784,
+            "name": "esif_uf.exe",
+            "memory_MB": 1.84
+        },
+        {
+            "pid": 4872,
+            "name": "DSAService.exe",
+            "memory_MB": 42.51
+        },
+        {
+            "pid": 4892,
+            "name": "svchost.exe",
+            "memory_MB": 11.43
+        },
+        {
+            "pid": 4952,
+            "name": "svchost.exe",
+            "memory_MB": 2.6
+        },
+        {
+            "pid": 4960,
+            "name": "conhost.exe",
+            "memory_MB": 6.86
+        },
+        {
+            "pid": 5028,
+            "name": "svchost.exe",
+            "memory_MB": 18.55
+        },
+        {
+            "pid": 5032,
+            "name": "FileZillaServer.exe",
+            "memory_MB": 1.0
+        },
+        {
+            "pid": 5052,
+            "name": "DSAUpdateService.exe",
+            "memory_MB": 30.68
+        },
+        {
+            "pid": 5064,
+            "name": "nssm.exe",
+            "memory_MB": 0.02
+        },
+        {
+            "pid": 5088,
+            "name": "ETDService.exe",
+            "memory_MB": 0.29
+        },
+        {
+            "pid": 5156,
+            "name": "HPCommRecovery.exe",
+            "memory_MB": 1.88
+        },
+        {
+            "pid": 5180,
+            "name": "HPPrintScanDoctorService.exe",
+            "memory_MB": 2.25
+        },
+        {
+            "pid": 5200,
+            "name": "OfficeClickToRun.exe",
+            "memory_MB": 7.09
+        },
+        {
+            "pid": 5236,
+            "name": "ArcControlService.exe",
+            "memory_MB": 6.81
+        },
+        {
+            "pid": 5244,
+            "name": "IntelAudioService.exe",
+            "memory_MB": 3.3
+        },
+        {
+            "pid": 5252,
+            "name": "svchost.exe",
+            "memory_MB": 0.79
+        },
+        {
+            "pid": 5368,
+            "name": "msedge.exe",
+            "memory_MB": 6.85
+        },
+        {
+            "pid": 5420,
+            "name": "PEFService.exe",
+            "memory_MB": 3.82
+        },
+        {
+            "pid": 5484,
+            "name": "OneApp.IGCC.WinService.exe",
+            "memory_MB": 4.65
+        },
+        {
+            "pid": 5492,
+            "name": "svchost.exe",
+            "memory_MB": 3.72
+        },
+        {
+            "pid": 5528,
+            "name": "expressvpnd.exe",
+            "memory_MB": 8.34
+        },
+        {
+            "pid": 5540,
+            "name": "SECOMN64.exe",
+            "memory_MB": 1.65
+        },
+        {
+            "pid": 5568,
+            "name": "svchost.exe",
+            "memory_MB": 12.21
+        },
+        {
+            "pid": 5572,
+            "name": "SurSvc.exe",
+            "memory_MB": 10.16
+        },
+        {
+            "pid": 5580,
+            "name": "svchost.exe",
+            "memory_MB": 12.56
+        },
+        {
+            "pid": 5592,
+            "name": "jhi_service.exe",
+            "memory_MB": 0.32
+        },
+        {
+            "pid": 5600,
+            "name": "svchost.exe",
+            "memory_MB": 0.66
+        },
+        {
+            "pid": 5628,
+            "name": "turbo_vpn-service.exe",
+            "memory_MB": 0.18
+        },
+        {
+            "pid": 5636,
+            "name": "svchost.exe",
+            "memory_MB": 2.2
+        },
+        {
+            "pid": 5684,
+            "name": "conhost.exe",
+            "memory_MB": 0.49
+        },
+        {
+            "pid": 5688,
+            "name": "ArcControlAssist.exe",
+            "memory_MB": 1.29
+        },
+        {
+            "pid": 5736,
+            "name": "Code.exe",
+            "memory_MB": 54.25
+        },
+        {
+            "pid": 5748,
+            "name": "vmnetdhcp.exe",
+            "memory_MB": 0.62
+        },
+        {
+            "pid": 5764,
+            "name": "svchost.exe",
+            "memory_MB": 1.12
+        },
+        {
+            "pid": 5772,
+            "name": "MpDefenderCoreService.exe",
+            "memory_MB": 3.25
+        },
+        {
+            "pid": 5792,
+            "name": "vmnat.exe",
+            "memory_MB": 0.45
+        },
+        {
+            "pid": 5800,
+            "name": "RtkAudUService64.exe",
+            "memory_MB": 3.83
+        },
+        {
+            "pid": 5828,
+            "name": "mfemms.exe",
+            "memory_MB": 4.07
+        },
+        {
+            "pid": 5840,
+            "name": "RstMwService.exe",
+            "memory_MB": 0.05
+        },
+        {
+            "pid": 5872,
+            "name": "svchost.exe",
+            "memory_MB": 7.6
+        },
+        {
+            "pid": 5880,
+            "name": "svchost.exe",
+            "memory_MB": 1.42
+        },
+        {
+            "pid": 5888,
+            "name": "svchost.exe",
+            "memory_MB": 1.21
+        },
+        {
+            "pid": 5984,
+            "name": "svchost.exe",
+            "memory_MB": 2.98
+        },
+        {
+            "pid": 6012,
+            "name": "wslservice.exe",
+            "memory_MB": 6.16
+        },
+        {
+            "pid": 6048,
+            "name": "MsMpEng.exe",
+            "memory_MB": 235.36
+        },
+        {
+            "pid": 6124,
+            "name": "WMIRegistrationService.exe",
+            "memory_MB": 0.05
+        },
+        {
+            "pid": 6176,
+            "name": "mongod.exe",
+            "memory_MB": 22.45
+        },
+        {
+            "pid": 6260,
+            "name": "vmware-authd.exe",
+            "memory_MB": 0.09
+        },
+        {
+            "pid": 6328,
+            "name": "Copilot.exe",
+            "memory_MB": 11.24
+        },
+        {
+            "pid": 6376,
+            "name": "CodeSetup-stable-848b80aeb52026648a8ff9f7c45a9b0a80641e2e.tmp",
+            "memory_MB": 25.19
+        },
+        {
+            "pid": 6416,
+            "name": "svchost.exe",
+            "memory_MB": 5.67
+        },
+        {
+            "pid": 6500,
+            "name": "svchost.exe",
+            "memory_MB": 1.85
+        },
+        {
+            "pid": 6516,
+            "name": "vmware-usbarbitrator64.exe",
+            "memory_MB": 0.3
+        },
+        {
+            "pid": 6620,
+            "name": "WmiPrvSE.exe",
+            "memory_MB": 15.14
+        },
+        {
+            "pid": 6796,
+            "name": "MfeBrowserHost.exe",
+            "memory_MB": 2.82
+        },
+        {
+            "pid": 6940,
+            "name": "svchost.exe",
+            "memory_MB": 1.64
+        },
+        {
+            "pid": 7116,
+            "name": "svchost.exe",
+            "memory_MB": 1.39
+        },
+        {
+            "pid": 7372,
+            "name": "svchost.exe",
+            "memory_MB": 9.44
+        },
+        {
+            "pid": 7568,
+            "name": "MMSSHOST.exe",
+            "memory_MB": 27.72
+        },
+        {
+            "pid": 7596,
+            "name": "Code.exe",
+            "memory_MB": 25.0
+        },
+        {
+            "pid": 7776,
+            "name": "mfevtps.exe",
+            "memory_MB": 7.29
+        },
+        {
+            "pid": 7812,
+            "name": "gamingservicesnet.exe",
+            "memory_MB": 0.6
+        },
+        {
+            "pid": 7824,
+            "name": "chrome.exe",
+            "memory_MB": 250.55
+        },
+        {
+            "pid": 7836,
+            "name": "Code.exe",
+            "memory_MB": 90.46
+        },
+        {
+            "pid": 7852,
+            "name": "ProtectedModuleHost.exe",
+            "memory_MB": 3.45
+        },
+        {
+            "pid": 7868,
+            "name": "msedge.exe",
+            "memory_MB": 7.23
+        },
+        {
+            "pid": 7988,
+            "name": "gamingservices.exe",
+            "memory_MB": 9.73
+        },
+        {
+            "pid": 8040,
+            "name": "unsecapp.exe",
+            "memory_MB": 2.04
+        },
+        {
+            "pid": 8076,
+            "name": "Code.exe",
+            "memory_MB": 126.04
+        },
+        {
+            "pid": 8276,
+            "name": "Notepad.exe",
+            "memory_MB": 61.73
+        },
+        {
+            "pid": 8312,
+            "name": "WmiPrvSE.exe",
+            "memory_MB": 6.52
+        },
+        {
+            "pid": 8380,
+            "name": "msedgewebview2.exe",
+            "memory_MB": 0.03
+        },
+        {
+            "pid": 8428,
+            "name": "chrome.exe",
+            "memory_MB": 1.71
+        },
+        {
+            "pid": 8576,
+            "name": "TextInputHost.exe",
+            "memory_MB": 21.77
+        },
+        {
+            "pid": 8712,
+            "name": "svchost.exe",
+            "memory_MB": 3.45
+        },
+        {
+            "pid": 8804,
+            "name": "ArcControlAssist.exe",
+            "memory_MB": 1.55
+        },
+        {
+            "pid": 8892,
+            "name": "ArcControlAssist.exe",
+            "memory_MB": 2.78
+        },
+        {
+            "pid": 9064,
+            "name": "ArcControlAssist.exe",
+            "memory_MB": 7.79
+        },
+        {
+            "pid": 9108,
+            "name": "ArcControlAssist.exe",
+            "memory_MB": 6.38
+        },
+        {
+            "pid": 9820,
+            "name": "Code.exe",
+            "memory_MB": 19.57
+        },
+        {
+            "pid": 9844,
+            "name": "svchost.exe",
+            "memory_MB": 4.51
+        },
+        {
+            "pid": 10004,
+            "name": "McCSPServiceHost.exe",
+            "memory_MB": 4.96
+        },
+        {
+            "pid": 10060,
+            "name": "wlanext.exe",
+            "memory_MB": 0.05
+        },
+        {
+            "pid": 10244,
+            "name": "Code.exe",
+            "memory_MB": 5.84
+        },
+        {
+            "pid": 10376,
+            "name": "cmd.exe",
+            "memory_MB": 1.05
+        },
+        {
+            "pid": 10380,
+            "name": "dptf_helper.exe",
+            "memory_MB": 0.9
+        },
+        {
+            "pid": 10404,
+            "name": "ETDCtrl.exe",
+            "memory_MB": 0.27
+        },
+        {
+            "pid": 10432,
+            "name": "sihost.exe",
+            "memory_MB": 15.05
+        },
+        {
+            "pid": 10472,
+            "name": "SECOCL64.exe",
+            "memory_MB": 1.45
+        },
+        {
+            "pid": 10488,
+            "name": "esrv_svc.exe",
+            "memory_MB": 31.45
+        },
+        {
+            "pid": 10576,
+            "name": "conhost.exe",
+            "memory_MB": 0.24
+        },
+        {
+            "pid": 10624,
+            "name": "HPSystemEventUtilityBackground.exe",
+            "memory_MB": 6.86
+        },
+        {
+            "pid": 10716,
+            "name": "svchost.exe",
+            "memory_MB": 6.04
+        },
+        {
+            "pid": 10744,
+            "name": "python.exe",
+            "memory_MB": 32.74
+        },
+        {
+            "pid": 10748,
+            "name": "svchost.exe",
+            "memory_MB": 1.04
+        },
+        {
+            "pid": 10828,
+            "name": "svchost.exe",
+            "memory_MB": 23.89
+        },
+        {
+            "pid": 10892,
+            "name": "AggregatorHost.exe",
+            "memory_MB": 4.7
+        },
+        {
+            "pid": 10904,
+            "name": "igfxEMN.exe",
+            "memory_MB": 0.18
+        },
+        {
+            "pid": 10960,
+            "name": "taskhostw.exe",
+            "memory_MB": 7.1
+        },
+        {
+            "pid": 11004,
+            "name": "svchost.exe",
+            "memory_MB": 1.87
+        },
+        {
+            "pid": 11068,
+            "name": "OverlayHelper.exe",
+            "memory_MB": 4.83
+        },
+        {
+            "pid": 11088,
+            "name": "StartMenuExperienceHost.exe",
+            "memory_MB": 27.15
+        },
+        {
+            "pid": 11124,
+            "name": "OmenInstallMonitor.exe",
+            "memory_MB": 5.62
+        },
+        {
+            "pid": 11168,
+            "name": "SystemOptimizer.exe",
+            "memory_MB": 6.96
+        },
+        {
+            "pid": 11524,
+            "name": "ApplicationFrameHost.exe",
+            "memory_MB": 6.5
+        },
+        {
+            "pid": 11572,
+            "name": "msedge.exe",
+            "memory_MB": 2.35
+        },
+        {
+            "pid": 11636,
+            "name": "svchost.exe",
+            "memory_MB": 0.87
+        },
+        {
+            "pid": 11900,
+            "name": "RtkAudUService64.exe",
+            "memory_MB": 2.35
+        },
+        {
+            "pid": 12036,
+            "name": "svchost.exe",
+            "memory_MB": 17.49
+        },
+        {
+            "pid": 12112,
+            "name": "svchost.exe",
+            "memory_MB": 12.19
+        },
+        {
+            "pid": 12164,
+            "name": "WidgetService.exe",
+            "memory_MB": 17.35
+        },
+        {
+            "pid": 12248,
+            "name": "msedgewebview2.exe",
+            "memory_MB": 0.71
+        },
+        {
+            "pid": 12296,
+            "name": "SearchHost.exe",
+            "memory_MB": 4.94
+        },
+        {
+            "pid": 12496,
+            "name": "SystemSettings.exe",
+            "memory_MB": 9.34
+        },
+        {
+            "pid": 12508,
+            "name": "Widgets.exe",
+            "memory_MB": 42.25
+        },
+        {
+            "pid": 12600,
+            "name": "RuntimeBroker.exe",
+            "memory_MB": 14.73
+        },
+        {
+            "pid": 12656,
+            "name": "RuntimeBroker.exe",
+            "memory_MB": 9.45
+        },
+        {
+            "pid": 12800,
+            "name": "conhost.exe",
+            "memory_MB": 2.09
+        },
+        {
+            "pid": 12820,
+            "name": "HPSystemEventUtilityHost.exe",
+            "memory_MB": 3.47
+        },
+        {
+            "pid": 12824,
+            "name": "svchost.exe",
+            "memory_MB": 3.28
+        },
+        {
+            "pid": 12896,
+            "name": "svchost.exe",
+            "memory_MB": 4.19
+        },
+        {
+            "pid": 13280,
+            "name": "msedgewebview2.exe",
+            "memory_MB": 1.96
+        },
+        {
+            "pid": 13296,
+            "name": "svchost.exe",
+            "memory_MB": 4.77
+        },
+        {
+            "pid": 13388,
+            "name": "mcshield.exe",
+            "memory_MB": 7.03
+        },
+        {
+            "pid": 13464,
+            "name": "msedgewebview2.exe",
+            "memory_MB": 3.54
+        },
+        {
+            "pid": 13496,
+            "name": "jusched.exe",
+            "memory_MB": 0.54
+        },
+        {
+            "pid": 13532,
+            "name": "mcapexe.exe",
+            "memory_MB": 2.06
+        },
+        {
+            "pid": 13648,
+            "name": "Code.exe",
+            "memory_MB": 67.65
+        },
+        {
+            "pid": 13792,
+            "name": "IGCC.exe",
+            "memory_MB": 6.13
+        },
+        {
+            "pid": 14020,
+            "name": "msedgewebview2.exe",
+            "memory_MB": 0.13
+        },
+        {
+            "pid": 14196,
+            "name": "msedgewebview2.exe",
+            "memory_MB": 9.3
+        },
+        {
+            "pid": 14584,
+            "name": "msedgewebview2.exe",
+            "memory_MB": 1.29
+        },
+        {
+            "pid": 14600,
+            "name": "msedgewebview2.exe",
+            "memory_MB": 2.25
+        },
+        {
+            "pid": 14684,
+            "name": "ctfmon.exe",
+            "memory_MB": 11.62
+        },
+        {
+            "pid": 14700,
+            "name": "Code.exe",
+            "memory_MB": 69.02
+        },
+        {
+            "pid": 14704,
+            "name": "Code.exe",
+            "memory_MB": 167.72
+        },
+        {
+            "pid": 14800,
+            "name": "OmenCommandCenterBackground.exe",
+            "memory_MB": 46.35
+        },
+        {
+            "pid": 14900,
+            "name": "msedgewebview2.exe",
+            "memory_MB": 0.25
+        },
+        {
+            "pid": 15332,
+            "name": "msedgewebview2.exe",
+            "memory_MB": 4.16
+        },
+        {
+            "pid": 15376,
+            "name": "svchost.exe",
+            "memory_MB": 3.12
+        },
+        {
+            "pid": 15388,
+            "name": "WmiApSrv.exe",
+            "memory_MB": 1.75
+        },
+        {
+            "pid": 15584,
+            "name": "ArcControlAssist.exe",
+            "memory_MB": 2.71
+        },
+        {
+            "pid": 15612,
+            "name": "SecurityHealthSystray.exe",
+            "memory_MB": 0.15
+        },
+        {
+            "pid": 15656,
+            "name": "IntelSoftwareAssetManagerService.exe",
+            "memory_MB": 0.11
+        },
+        {
+            "pid": 15672,
+            "name": "SecurityHealthService.exe",
+            "memory_MB": 6.09
+        },
+        {
+            "pid": 15796,
+            "name": "RuntimeBroker.exe",
+            "memory_MB": 16.01
+        },
+        {
+            "pid": 15856,
+            "name": "chrome.exe",
+            "memory_MB": 106.35
+        },
+        {
+            "pid": 15952,
+            "name": "msedge.exe",
+            "memory_MB": 0.81
+        },
+        {
+            "pid": 16044,
+            "name": "DSATray.exe",
+            "memory_MB": 27.48
+        },
+        {
+            "pid": 16076,
+            "name": "SearchIndexer.exe",
+            "memory_MB": 56.93
+        },
+        {
+            "pid": 16160,
+            "name": "svchost.exe",
+            "memory_MB": 2.77
+        },
+        {
+            "pid": 16188,
+            "name": "svchost.exe",
+            "memory_MB": 4.86
+        },
+        {
+            "pid": 16208,
+            "name": "NisSrv.exe",
+            "memory_MB": 5.03
+        },
+        {
+            "pid": 16444,
+            "name": "McUICnt.exe",
+            "memory_MB": 7.09
+        },
+        {
+            "pid": 16480,
+            "name": "uihost.exe",
+            "memory_MB": 10.86
+        },
+        {
+            "pid": 16528,
+            "name": "HPAudioSwitch.exe",
+            "memory_MB": 7.32
+        },
+        {
+            "pid": 16700,
+            "name": "svchost.exe",
+            "memory_MB": 2.59
+        },
+        {
+            "pid": 16724,
+            "name": "cmd.exe",
+            "memory_MB": 1.14
+        },
+        {
+            "pid": 16868,
+            "name": "msedge.exe",
+            "memory_MB": 2.4
+        },
+        {
+            "pid": 16892,
+            "name": "msedge.exe",
+            "memory_MB": 2.36
+        },
+        {
+            "pid": 16900,
+            "name": "conhost.exe",
+            "memory_MB": 0.55
+        },
+        {
+            "pid": 17056,
+            "name": "audiodg.exe",
+            "memory_MB": 19.47
+        },
+        {
+            "pid": 17180,
+            "name": "svchost.exe",
+            "memory_MB": 7.41
+        },
+        {
+            "pid": 17292,
+            "name": "unsecapp.exe",
+            "memory_MB": 2.32
+        },
+        {
+            "pid": 17296,
+            "name": "MfeAVSvc.exe",
+            "memory_MB": 7.47
+        },
+        {
+            "pid": 17404,
+            "name": "HPMediaNetwork.exe",
+            "memory_MB": 4.02
+        },
+        {
+            "pid": 17860,
+            "name": "BridgeCommunication.exe",
+            "memory_MB": 31.08
+        },
+        {
+            "pid": 18296,
+            "name": "BlueStacksHelper.exe",
+            "memory_MB": 0.01
+        },
+        {
+            "pid": 18308,
+            "name": "BridgeCommunication.exe",
+            "memory_MB": 2.74
+        },
+        {
+            "pid": 18384,
+            "name": "chrome.exe",
+            "memory_MB": 12.99
+        },
+        {
+            "pid": 18728,
+            "name": "chrome.exe",
+            "memory_MB": 60.14
+        },
+        {
+            "pid": 18836,
+            "name": "chrome.exe",
+            "memory_MB": 48.61
+        },
+        {
+            "pid": 18936,
+            "name": "mcafee-security.exe",
+            "memory_MB": 7.29
+        },
+        {
+            "pid": 19000,
+            "name": "CodeSetup-stable-848b80aeb52026648a8ff9f7c45a9b0a80641e2e.exe",
+            "memory_MB": 9.11
+        },
+        {
+            "pid": 19016,
+            "name": "browserhost.exe",
+            "memory_MB": 5.83
+        },
+        {
+            "pid": 19252,
+            "name": "chrome.exe",
+            "memory_MB": 110.2
+        },
+        {
+            "pid": 19272,
+            "name": "Code.exe",
+            "memory_MB": 81.18
+        },
+        {
+            "pid": 19384,
+            "name": "dasHost.exe",
+            "memory_MB": 0.66
+        },
+        {
+            "pid": 19548,
+            "name": "chrome.exe",
+            "memory_MB": 78.37
+        },
+        {
+            "pid": 19908,
+            "name": "cmd.exe",
+            "memory_MB": 2.88
+        },
+        {
+            "pid": 20340,
+            "name": "chrome.exe",
+            "memory_MB": 34.22
+        },
+        {
+            "pid": 20348,
+            "name": "chrome.exe",
+            "memory_MB": 140.25
+        },
+        {
+            "pid": 20376,
+            "name": "PhoneExperienceHost.exe",
+            "memory_MB": 17.21
+        },
+        {
+            "pid": 20668,
+            "name": "Code.exe",
+            "memory_MB": 55.94
+        },
+        {
+            "pid": 20844,
+            "name": "RuntimeBroker.exe",
+            "memory_MB": 2.25
+        },
+        {
+            "pid": 20864,
+            "name": "conhost.exe",
+            "memory_MB": 1.97
+        },
+        {
+            "pid": 20956,
+            "name": "powershell.exe",
+            "memory_MB": 79.11
+        },
+        {
+            "pid": 20960,
+            "name": "mcafee-security-ft.exe",
+            "memory_MB": 2.51
+        },
+        {
+            "pid": 20976,
+            "name": "chrome.exe",
+            "memory_MB": 49.8
+        },
+        {
+            "pid": 21280,
+            "name": "RuntimeBroker.exe",
+            "memory_MB": 2.14
+        },
+        {
+            "pid": 21412,
+            "name": "chrome.exe",
+            "memory_MB": 7.04
+        },
+        {
+            "pid": 21952,
+            "name": "chrome.exe",
+            "memory_MB": 150.28
+        },
+        {
+            "pid": 22188,
+            "name": "chrome.exe",
+            "memory_MB": 5.93
+        },
+        {
+            "pid": 22828,
+            "name": "chrome.exe",
+            "memory_MB": 465.31
+        },
+        {
+            "pid": 22868,
+            "name": "servicehost.exe",
+            "memory_MB": 22.76
+        },
+        {
+            "pid": 23012,
+            "name": "conhost.exe",
+            "memory_MB": 3.55
+        },
+        {
+            "pid": 23076,
+            "name": "Code.exe",
+            "memory_MB": 401.35
+        }
+    ],
+    "screenshot_file": "ForensicX_Report\\screenshot.png"
+}
